@@ -6,6 +6,8 @@ public class Main_class {
 		// TODO Auto-generated method stub
 		System.out.println("Let's do something using GIT.");
 		//lets add a comment
+		System.out.println("Let's do something else using GIT.");
+
 
 	}
 
